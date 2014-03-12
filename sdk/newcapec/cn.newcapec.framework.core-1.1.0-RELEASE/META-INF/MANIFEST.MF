@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: newcapec :: framework :: core
+Implementation-Version: 1.1.0-RELEASE
+Implementation-Vendor-Id: cn.newcapec.framework
+Built-By: Administrator
+Build-Jdk: 1.6.0_34
+Created-By: Apache Maven
+Archiver-Version: Plexus Archiver
+
